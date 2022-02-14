@@ -1,0 +1,17 @@
+/* both of the below combined descendants correctly style*/
+
+/* descendant combined container solution*/
+.container .text {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* decendant combined type solution*/
+div p {
+    background-color: yellow;
+    color: red;
+    font-size: 20px;
+    text-align: center;
+}
